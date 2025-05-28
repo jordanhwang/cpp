@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{182BD897-B4F6-4C29-AE3B-75BF2A38824E}|HelloWorld\\HelloWorld.vcxproj|C:\\cpp\\HelloWorld\\HelloWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{182BD897-B4F6-4C29-AE3B-75BF2A38824E}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182BD897-B4F6-4C29-AE3B-75BF2A38824E}|HelloWorld\\HelloWorld.vcxproj|C:\\cpp\\HelloWorld\\HelloWorld\\cpp_02_10_define.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{182BD897-B4F6-4C29-AE3B-75BF2A38824E}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\cpp_02_10_define.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182BD897-B4F6-4C29-AE3B-75BF2A38824E}|HelloWorld\\HelloWorld.vcxproj|C:\\cpp\\HelloWorld\\HelloWorld\\cpp_02_07_forward_declaration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{182BD897-B4F6-4C29-AE3B-75BF2A38824E}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\cpp_02_07_forward_declaration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182BD897-B4F6-4C29-AE3B-75BF2A38824E}|HelloWorld\\HelloWorld.vcxproj|C:\\cpp\\HelloWorld\\HelloWorld\\cpp_02_04_added_numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{182BD897-B4F6-4C29-AE3B-75BF2A38824E}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\cpp_02_04_added_numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182BD897-B4F6-4C29-AE3B-75BF2A38824E}|HelloWorld\\HelloWorld.vcxproj|C:\\cpp\\HelloWorld\\HelloWorld\\cpp_01_10_addition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{182BD897-B4F6-4C29-AE3B-75BF2A38824E}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\cpp_01_10_addition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cpp_02_10_define.cpp",
+              "DocumentMoniker": "C:\\cpp\\HelloWorld\\HelloWorld\\cpp_02_10_define.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\cpp_02_10_define.cpp",
+              "ToolTip": "C:\\cpp\\HelloWorld\\HelloWorld\\cpp_02_10_define.cpp",
+              "RelativeToolTip": "HelloWorld\\cpp_02_10_define.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T04:58:11.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cpp_02_07_forward_declaration.cpp",
+              "DocumentMoniker": "C:\\cpp\\HelloWorld\\HelloWorld\\cpp_02_07_forward_declaration.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\cpp_02_07_forward_declaration.cpp",
+              "ToolTip": "C:\\cpp\\HelloWorld\\HelloWorld\\cpp_02_07_forward_declaration.cpp",
+              "RelativeToolTip": "HelloWorld\\cpp_02_07_forward_declaration.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T04:43:36.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cpp_02_04_added_numbers.cpp",
+              "DocumentMoniker": "C:\\cpp\\HelloWorld\\HelloWorld\\cpp_02_04_added_numbers.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\cpp_02_04_added_numbers.cpp",
+              "ToolTip": "C:\\cpp\\HelloWorld\\HelloWorld\\cpp_02_04_added_numbers.cpp",
+              "RelativeToolTip": "HelloWorld\\cpp_02_04_added_numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T04:34:20.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cpp_01_10_addition.cpp",
+              "DocumentMoniker": "C:\\cpp\\HelloWorld\\HelloWorld\\cpp_01_10_addition.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\cpp_01_10_addition.cpp",
+              "ToolTip": "C:\\cpp\\HelloWorld\\HelloWorld\\cpp_01_10_addition.cpp",
+              "RelativeToolTip": "HelloWorld\\cpp_01_10_addition.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T04:22:18.656Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "HelloWorld\\main.cpp",
               "ToolTip": "C:\\cpp\\HelloWorld\\HelloWorld\\main.cpp",
               "RelativeToolTip": "HelloWorld\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-26T18:23:40.731Z",
               "EditorCaption": ""
