@@ -1,2 +1,4 @@
-﻿  main.cpp
+﻿  cpp_02_11_header.cpp
+  main.cpp
+  Generating Code...
   HelloWorld.vcxproj -> C:\cpp\HelloWorld\x64\Debug\HelloWorld.exe

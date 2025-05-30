@@ -125,11 +125,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cpp_02_11_header.cpp" />
     <ClCompile Include="cpp_01_10_addition.cpp" />
     <ClCompile Include="cpp_02_04_added_numbers.cpp" />
     <ClCompile Include="cpp_02_07_forward_declaration.cpp" />
     <ClCompile Include="cpp_02_10_define.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cpp_02_11_header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

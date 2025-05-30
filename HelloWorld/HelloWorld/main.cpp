@@ -1,12 +1,8 @@
+#include "cpp_02_11_header.h"
 #include <iostream>
-
-#define PRINT_JORD
 
 int main()
 {
-#ifdef PRINT_JORD
-	std::cout << "hey\n";
-#endif
-
-	return 0;
+    std::cout << "The sum of 3 and 4 is " << addTwoNumbers(3, 4) << '\n';
+    return 0;
 }
