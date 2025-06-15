@@ -1,8 +1,13 @@
-#include "cpp_02_11_header.h"
 #include <iostream>
+
+void printValue(int value)
+{
+    std::cout << value << '\n';
+}
 
 int main()
 {
-    std::cout << "The sum of 3 and 4 is " << addTwoNumbers(3, 4) << '\n';
+    printValue(5);
+
     return 0;
 }
