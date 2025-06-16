@@ -1,5 +1,13 @@
 # ninja log v6
-19	691	7716375790024804	CMakeFiles/RayTracingInOneWeekend.dir/RayTracingInOneWeekend.cpp.obj	d879369494bacb3b
-692	809	7716375796749461	RayTracingInOneWeekend.exe	4537c9688a3f5943
 7	963	7716516463682663	CMakeFiles/RayTracingInOneWeekend.dir/RayTracingInOneWeekend.cpp.obj	d879369494bacb3b
 964	1090	7716516473262336	RayTracingInOneWeekend.exe	4537c9688a3f5943
+38	1004	7717458359359640	CMakeFiles/RayTracingInOneWeekend.dir/RayTracingInOneWeekend.cpp.obj	d879369494bacb3b
+1005	1227	7717458369016906	RayTracingInOneWeekend.exe	4537c9688a3f5943
+18	716	7717459917140924	CMakeFiles/RayTracingInOneWeekend.dir/RayTracingInOneWeekend.cpp.obj	d879369494bacb3b
+717	849	7717459924131333	RayTracingInOneWeekend.exe	4537c9688a3f5943
+16	984	7717470828785475	CMakeFiles/RayTracingInOneWeekend.dir/RayTracingInOneWeekend.cpp.obj	d879369494bacb3b
+985	1159	7717470838466916	RayTracingInOneWeekend.exe	4537c9688a3f5943
+17	694	7717471062196965	CMakeFiles/RayTracingInOneWeekend.dir/RayTracingInOneWeekend.cpp.obj	d879369494bacb3b
+694	815	7717471068968940	RayTracingInOneWeekend.exe	4537c9688a3f5943
+16	699	7717471187862332	CMakeFiles/RayTracingInOneWeekend.dir/RayTracingInOneWeekend.cpp.obj	d879369494bacb3b
+699	823	7717471194691635	RayTracingInOneWeekend.exe	4537c9688a3f5943
